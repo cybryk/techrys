@@ -1,6 +1,6 @@
 # 🐱 Welcome to My GitHub! 😺
 
-### Hello! I'm [Ry.] 👋  
+### Hello! I'm Ry 👋  
 A self-taught **computer programmer** with a passion for **web development**. I love crafting clean, functional, and beautiful websites. When I'm not coding, you can find me chilling with my kitty 🐾, or learning new things!  
 Feel free to explore my repositories or connect with me below!
 
