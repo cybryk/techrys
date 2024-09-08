@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🐱 Welcome to My GitHub! 😺
 
-<!--
-**techrys/techrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! I'm [Ry.] 👋  
+A self-taught **computer programmer** with a passion for **web development**. I love crafting clean, functional, and beautiful websites. When I'm not coding, you can find me chilling with my kitty 🐾, or learning new things!  
+Feel free to explore my repositories or connect with me below!
 
-Here are some ideas to get you started:
+## 🖥️ My Tech Stack:
+- HTML, CSS, JavaScript, Tailwind.
+- React, Node.js, Express
+- SQL, MongoDB
+- Python & C++
+- - C#
+- Git, GitHub, and Version Control
+- UI/UX & Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Check Out My Portfolio:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)
+
+---
+
+## Let's Connect!  
+Feel free to reach out and connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/techrys)  
+
+---
+
+![kitty](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)
+
+---
+
+Thanks for stopping by! Let's build something awesome together! 🚀
