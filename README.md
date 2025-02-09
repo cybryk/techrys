@@ -1,3 +1,15 @@
+<div align="center">
+  
+  # 🚀 Welcome to Techrys's Hub
+  
+  ### Performance & Optimization Enthusiast
+  
+  ![Separator](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=3)
+
+</div>
+
+### 🎯 Current Focus
+
 <h1 align="center">Hi 👋, I'm Techrys</h1>
 <h3 align="center">A passionate developer focused on optimization and performance</h3>
 
