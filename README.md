@@ -1,35 +1,53 @@
-# 🐱 Welcome to My GitHub! 😺
+<h1 align="center">Hi 👋, I'm Techrys</h1>
+<h3 align="center">A passionate developer focused on optimization and performance</h3>
 
-### Hello! I'm Ry 👋  
-A self-taught **computer programmer** with a passion for **web development**. I love crafting clean, functional, and beautiful websites. When I'm not coding, you can find me chilling with my kitty 🐾, or learning new things!  
-Feel free to explore my repositories or connect with me below!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=techrys&label=Profile%20views&color=0e75b6&style=flat" alt="techrys" />
+</p>
 
-## 🖥️ My Tech Stack:
-- HTML, CSS, JavaScript, Tailwind.
-- React, Node.js, Express
-- SQL, MongoDB
-- Python & C++
-- - C#
-- Git, GitHub, and Version Control
-- UI/UX & Responsive Design
+### 🔭 Currently Working On
+- **Optimal**: Windows Optimization for performance and gaming
+
+### 👨‍💻 Development Environment
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%202017-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS 2017" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS 2022" />
+</p>
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://github.com/techrys" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add more social links as needed -->
+</p>
+
+### 💻 Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techrys&show_icons=true&theme=dark&locale=en" alt="techrys" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techrys&theme=dark" alt="techrys" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techrys&show_icons=true&theme=dark&locale=en&layout=compact" alt="techrys" />
+</p>
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=techrys&theme=github)
 
 ---
-
-## 🌐 Check Out My Portfolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)
-
----
-
-## Let's Connect!  
-Feel free to reach out and connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/techrys)  
-
----
-
-![kitty](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)
-
----
-
-Thanks for stopping by! Let's build something awesome together! 🚀
+<p align="center">⭐️ From [techrys](https://github.com/techrys)</p>
