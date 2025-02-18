@@ -13,10 +13,6 @@
 <h1 align="center">Hi 👋, I'm Techrys</h1>
 <h3 align="center">A passionate developer focused on optimization and performance</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=techrys&label=Profile%20views&color=0e75b6&style=flat" alt="techrys" />
-</p>
-
 ### 🔭 Currently Working On
 - **Optimal**: Windows Optimization for performance and gaming
 
