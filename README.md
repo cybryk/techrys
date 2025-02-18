@@ -1,61 +1,52 @@
-<div align="center">
-  
-  # 🚀 Welcome to Techrys's Hub
-  
-  ### Performance & Optimization Enthusiast
-  
-  ![Separator](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=3)
+# 👋 Hey there, I'm Techrys!
 
-</div>
+## 🧑‍💻 About Me
+I'm a **20-year-old Full-Stack Web Developer** and a **Computer Science student** with a focus on **IT & Cybersecurity**. I love building modern, efficient, and secure web applications.  
+Currently, I'm diving into **Angular** and expanding my skillset.  
 
-### 🎯 Current Focus
+When I'm not coding, you'll find me:  
+🎮 Playing video games  
+🎵 Listening to music  
+🎸 Jamming on musical instruments  
 
-<h1 align="center">Hi 👋, I'm Techrys</h1>
-<h3 align="center">A passionate developer focused on optimization and performance</h3>
+Feel free to ask me anything! I'm always open to learning and sharing knowledge.  
 
-### 🔭 Currently Working On
-- **Optimal**: Windows Optimization for performance and gaming
-
-### 👨‍💻 Development Environment
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%202017-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS 2017" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS 2022" />
-</p>
-
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://github.com/techrys" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Add more social links as needed -->
-</p>
-
-### 💻 Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techrys&show_icons=true&theme=dark&locale=en" alt="techrys" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techrys&theme=dark" alt="techrys" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techrys&show_icons=true&theme=dark&locale=en&layout=compact" alt="techrys" />
-</p>
-
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=techrys&theme=github)
+📫 **Reach out:** [techrys.contact@gmail.com](mailto:techrys.contact@gmail.com)  
 
 ---
-<p align="center">⭐️ From [techrys](https://github.com/techrys)</p>
+
+## 🚀 Skills & Tech Stack  
+
+### 🌐 Frontend Development  
+- HTML, CSS, JavaScript  
+- React, Angular (Currently Learning), Vue  
+- Tailwind CSS, Bootstrap  
+
+### ⚙️ Backend Development  
+- Node.js, Express  
+- PHP, Python, Perl, Bash  
+- C#, C++, Swift  
+
+### 🛠️ Developmental Tools  
+- Git, GitHub, Linux Terminal  
+- Visual Studio Code, Visual Studio  
+- Docker, Postman  
+
+### 🗄️ Database Management  
+- MySQL, PostgreSQL, MongoDB  
+- Firebase, SQLite  
+
+### ☁️ Deployment & Cloud Services  
+- Vercel, Netlify, GitHub Pages  
+- AWS, DigitalOcean  
+
+---
+
+## 🔗 Connect with Me  
+[![Discord](https://img.shields.io/badge/Discord-Techrys-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourID)  
+[![Email](https://img.shields.io/badge/Email-techrys.contact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techrys.contact@gmail.com)  
+[![Website](https://img.shields.io/badge/Website-techrys.dev-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)  
+
+---
+
+🚀 *Always learning, always building!*  
