@@ -76,7 +76,6 @@ const devops = {
 
 - 🌟 Active contributor to open-source projects
 - 🏅 Completed various cybersecurity certifications
-- 🎓 Dean's List in Computer Science
 - 💻 Developed multiple full-stack applications
 
 ## 🎵 Currently Vibing To
