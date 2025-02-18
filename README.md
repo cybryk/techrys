@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Cybersecurity+Specialist;Computer+Science+Student;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=techrys&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ## 🎯 About Me
 
