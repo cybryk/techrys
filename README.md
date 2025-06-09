@@ -66,16 +66,10 @@ const devops = {
 - 🏅 Completed various cybersecurity certifications
 - 💻 Developed multiple full-stack applications
 
-## 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/techrys)
-
 ## 📫 Connect With Me
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-techrys.contact%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techrys.contact@gmail.com)
-[![Website](https://img.shields.io/badge/Website-techrys.dev-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://techrys.dev)
 [![Discord](https://img.shields.io/badge/Discord-Techrys-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/techrys)
 
 </div>
