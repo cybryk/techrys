@@ -75,14 +75,3 @@ const devops = {
 </div>
 
 ---
-
-
-```javascript
-// Life Philosophy
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
