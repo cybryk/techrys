@@ -9,12 +9,6 @@
 
 I'm a passionate **Full-Stack Developer** and **Computer Science student** specializing in IT & Cybersecurity. With a strong foundation in both frontend and backend technologies, I focus on building secure, scalable, and user-centric applications.
 
-- 🔭 Currently exploring **Advanced Angular** concepts
-- 🌱 Learning **Cloud Architecture** and **DevSecOps**
-- 👨‍💻 Working on various full-stack projects
-- 📚 Studying Computer Science with a focus on Cybersecurity
-- 🎮 Gaming and 🎵 Music enthusiast
-
 ## 💻 Tech Stack
 
 <details>
@@ -65,12 +59,6 @@ const devops = {
 ```
 </details>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techrys&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techrys&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🏆 Achievements
 
