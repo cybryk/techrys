@@ -76,10 +76,6 @@ const devops = {
 
 ---
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</div>
 
 ```javascript
 // Life Philosophy
