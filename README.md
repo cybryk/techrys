@@ -1,4 +1,4 @@
-<h1 align="center">Techrys</h1>
+<h1 align="center">RYK</h1>
 <h3 align="center">Full-Stack Developer | Software Developer | Cybersecurity & Intelligence Ops Student</h3>
 
 <div align="center">
